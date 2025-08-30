@@ -8,14 +8,6 @@ This project demonstrates core skills in data preparation, analysis, visualizati
 
 ---
 
-### ✨ Live Dashboard Screenshot
-
-![Superstore Sales Dashboard](image_a99e19.png)
-
-*(This will display the screenshot you've already uploaded to your repository).*
-
----
-
 ### 🚀 Key Features & Analysis
 
 * **Interactive Controls:** The dashboard is equipped with a **Region Slicer**, allowing users to filter the entire report and analyze the performance of a specific region (Central, East, South, West) with a single click.
